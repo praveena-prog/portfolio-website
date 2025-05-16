@@ -1,10 +1,22 @@
 # portfolio-website
-*COMPANY NMAE* :CODETECH IT SOLUTIONS 
+*COMPANY NMAE* :CODETECH IT SOLUTIONS
+
+
 *NAME* :praveena
+
+
 *INTERN ID* :CT06M06
+
+
 *DOMAIN NAME* :web development
+
+
 *DURIATION* :6 weeks 
+
+
 *MENTOR NAME* : NEELA SANTHOSH
+
+
 *DESCRIPTION*:
 
 Project Title: Personal Portfolio Website
